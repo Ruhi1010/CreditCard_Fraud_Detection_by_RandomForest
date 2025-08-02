@@ -120,5 +120,8 @@ This document explains every method and function used in the notebook.
 
 ---
 
+## DataSet
+* ***Dataset link***: https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023
+
 
 
